@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm João Fontebasso</h1>
-<h3 align="center">Python Backend & Data Engineer | Building scalable backend systems and data pipelines with Django, Flask & Python</h3>
+<h1 align="left">Hi 👋, I'm João Fontebasso</h1>
+<h3 align="left">Python Backend & Data Engineer</h3>
+<h3 align="left">
+Building scalable backend systems and data pipelines using Python, Django, Flask, PostgreSQL & MySQL.
+Experienced in API development, cloud services (AWS), containerization (Docker), data processing (Pandas, ETL) and automation scripts.
+Passionate about writing clean, maintainable code and contributing to open-source projects.
+</h3>
 
 <hr>
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/joao-fontebasso" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-fontebasso" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Fontebasso-JV" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:joao.fontebasso@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -37,7 +42,7 @@
 <hr>
 
 <h3 align="left">🚀 GitHub Stats</h3>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Fontebasso-JV&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fontebasso-JV&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
@@ -46,9 +51,8 @@
 
 <h3 align="left">📂 Projects & Highlights</h3>
 <ul>
-  <li><a href="https://github.com/Fontebasso-JV/project1" target="_blank">Project 1</a> – Example of a Django REST API with PostgreSQL</li>
-  <li><a href="https://github.com/Fontebasso-JV/project2" target="_blank">Project 2</a> – Data pipeline and ETL using Python & Pandas</li>
-  <li><a href="https://github.com/Fontebasso-JV/project3" target="_blank">Project 3</a> – Flask web app with Docker deployment</li>
+  <li><a href="https://github.com/Fontebasso-JV/project1" target="_blank">Project 1</a> – Django REST API with PostgreSQL</li>
+  <li><a href="https://github.com/Fontebasso-JV/project2" target="_blank">Project 2</a> – Data pipeline and ETL using Python & Spark</li>
 </ul>
 
 <hr>
@@ -57,7 +61,6 @@
 <p>
   - Advanced Django Patterns<br/>
   - Data Engineering with Airflow & Spark<br/>
-  - Machine Learning Pipelines<br/>
   - API Optimization and Caching Strategies
 </p>
 
@@ -67,5 +70,4 @@
 <p>
   - Build more open-source projects using Python & Django<br/>
   - Contribute to backend/data engineering libraries<br/>
-  - Improve cloud & DevOps skills (AWS, Docker, CI/CD)
 </p>
