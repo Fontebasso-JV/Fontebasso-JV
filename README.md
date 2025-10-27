@@ -41,11 +41,10 @@ Passionate about writing clean, maintainable code and contributing to open-sourc
 
 <hr>
 
-<h3 align="left">🚀 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fontebasso-JV&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fontebasso-JV&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<h3 align="left">📊 GitHub Activity</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fontebasso-JV&theme=radical" alt="GitHub Activity Graph" />
+
+![GitHub Contribution Graph](https://github.com/Fontebasso-JV.png)
 
 <hr>
 
