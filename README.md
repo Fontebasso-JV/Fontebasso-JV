@@ -49,10 +49,10 @@ Passionate about writing clean, maintainable code and contributing to open-sourc
 
 <hr>
 
-<h3 align="left">📂 Projects & Highlights</h3>
+<h3 align="left">🔒 Private / In Progress</h3>
 <ul>
-  <li><a href="https://github.com/Fontebasso-JV/project1" target="_blank">Project 1</a> – Django REST API with PostgreSQL</li>
-  <li><a href="https://github.com/Fontebasso-JV/project2" target="_blank">Project 2</a> – Data pipeline and ETL using Python & Spark</li>
+  <li>Internal ETL pipelines (Python, Airflow, AWS)</li>
+  <li>Django SaaS platform in development</li>
 </ul>
 
 <hr>
