@@ -2,7 +2,7 @@
 <h4 align="left">Python Backend & Data Engineer</h3>
 <h5 align="left">
 Building scalable backend systems and data pipelines using Python, Django, Flask, PostgreSQL & MySQL.
-Experienced in API development, cloud services (AWS), containerization (Docker), data processing (Pandas, ETL) and automation scripts.
+Experienced in API development, cloud services (AWS), containerization (Docker), data processing (Pyspark, ETL) and automation scripts.
 Passionate about writing clean, maintainable code and contributing to open-source projects.
 </h5>
 
